@@ -1,0 +1,4 @@
+﻿  TaskLister.cpp
+F:\Coding\C#\SPP_6\TaskLister\TaskLister.cpp(122,32): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+F:\Coding\C#\SPP_6\TaskLister\TaskLister.cpp(130,23): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  TaskLister.vcxproj -> F:\Coding\C#\SPP_6\Debug\TaskLister.dll

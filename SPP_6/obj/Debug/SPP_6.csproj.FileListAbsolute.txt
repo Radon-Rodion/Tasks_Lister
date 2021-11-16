@@ -1,0 +1,10 @@
+F:\Coding\C#\SPP_6\SPP_6\bin\Debug\SPP_6.exe.config
+F:\Coding\C#\SPP_6\SPP_6\bin\Debug\SPP_6.exe
+F:\Coding\C#\SPP_6\SPP_6\bin\Debug\SPP_6.pdb
+F:\Coding\C#\SPP_6\SPP_6\obj\Debug\SPP_6.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_6\SPP_6\obj\Debug\SPP_6.TaskListerForm.resources
+F:\Coding\C#\SPP_6\SPP_6\obj\Debug\SPP_6.Properties.Resources.resources
+F:\Coding\C#\SPP_6\SPP_6\obj\Debug\SPP_6.csproj.GenerateResource.cache
+F:\Coding\C#\SPP_6\SPP_6\obj\Debug\SPP_6.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_6\SPP_6\obj\Debug\SPP_6.exe
+F:\Coding\C#\SPP_6\SPP_6\obj\Debug\SPP_6.pdb
